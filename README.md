@@ -32,4 +32,4 @@ The Art Gallery API is a RESTful web service built with Django and Django Rest F
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/art-gallery-api.git
+   git clone https://github.com/anageguchadze/Gallery-API
